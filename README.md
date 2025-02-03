@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
+
 **EthemCorak19/EthemCorak19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, My Name is Ethem Corakcioglu,  I'm a Frontend Developer.  
+I focus on building modern, high-performance, and user-friendly interfaces using JavaScript, HTML, and CSS.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technologies & Tools**  
+- HTML, CSS, JavaScript  
+- Responsive and mobile-friendly designs  
+- Performance and accessibility-focused development  
+
+🚀 **My Goals**  
+To keep up with the latest frontend trends, continuously improve my skills, and create high-quality user experiences.
+
